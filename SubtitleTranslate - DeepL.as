@@ -40,7 +40,7 @@ string UserAgent = "Mozilla/5.0 (Windows NT 10.0; Win64; x64)";
 array<string> LangTable =
 {
     "", // Auto Detect
-	"ar", // Arabic
+    "ar", // Arabic
     "bg", // Bulgarian
     "cs", // Czech
     "da", // Danish
