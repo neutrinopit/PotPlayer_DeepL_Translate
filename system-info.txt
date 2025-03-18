@@ -1,0 +1,42 @@
+OS Name	Microsoft Windows Server 2022 Datacenter
+Version	10.0.20348 Build 20348
+Other OS Description 	Not Available
+OS Manufacturer	Microsoft Corporation
+System Name	MASTER
+System Manufacturer	Dell Inc.
+System Model	Precision Tower 7810
+System Type	x64-based PC
+System SKU	0618
+Processor	Intel(R) Xeon(R) CPU E5-2620 v3 @ 2.40GHz, 2401 Mhz, 6 Core(s), 12 Logical Processor(s)
+Processor	Intel(R) Xeon(R) CPU E5-2620 v3 @ 2.40GHz, 2401 Mhz, 6 Core(s), 12 Logical Processor(s)
+BIOS Version/Date	Dell Inc. A33, 10/01/20
+SMBIOS Version	2.8
+Embedded Controller Version	255.255
+BIOS Mode	UEFI
+BaseBoard Manufacturer	Dell Inc.
+BaseBoard Product	0GWHMW
+BaseBoard Version	A00
+Platform Role	Desktop
+Secure Boot State	Off
+PCR7 Configuration	Not Available
+Windows Directory	C:\Windows
+System Directory	C:\Windows\system32
+Boot Device	\Device\HarddiskVolume1
+Locale	Saudi Arabia
+Hardware Abstraction Layer	Version = "10.0.20348.143"
+User Name	MASTER\Administrator
+Time Zone	Arabic Standard Time
+Installed Physical Memory (RAM)	28.0 GB
+Total Physical Memory	27.9 GB
+Available Physical Memory	20.4 GB
+Total Virtual Memory	32.2 GB
+Available Virtual Memory	24.2 GB
+Page File Space	4.25 GB
+Page File	C:\pagefile.sys
+Kernel DMA Protection	Off
+Virtualization-based security	Not enabled
+Device Encryption Support	Not Available
+Hyper-V - VM Monitor Mode Extensions	Yes
+Hyper-V - Second Level Address Translation Extensions	Yes
+Hyper-V - Virtualization Enabled in Firmware	Yes
+Hyper-V - Data Execution Protection	Yes
